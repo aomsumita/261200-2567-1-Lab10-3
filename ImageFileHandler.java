@@ -1,5 +1,5 @@
 public class ImageFileHandler implements Handler {
-    private Handler handler; // whom to pass on request
+    private Handler handler;
     private String handlerName;
 
     public ImageFileHandler(String handlerName) {

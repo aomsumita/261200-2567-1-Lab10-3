@@ -9,8 +9,6 @@ public class File {
         this.filePath = filePath;
     }
 
-// TODO: Complete getters
-
     public String getFileName() {
         return this.fileName;
     }
